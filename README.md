@@ -103,4 +103,4 @@ Execute the program
 
 ## OUTPUT 
 
-![OUTPUT](timetable hajara.png)
+![OUTPUT](./TIMETABLE SSN.PNG)
