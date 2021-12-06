@@ -1,3 +1,4 @@
+![Uploading timetable hajara.png…]()
 # Experiment_Time_Table
 
 ## AIM
@@ -99,7 +100,7 @@ Execute the program
      
    </body>
 </html>
-```
-## OUTPUT
+
+## OUTPUT 
 
 ![OUTPUT](timetable hajara.png)
