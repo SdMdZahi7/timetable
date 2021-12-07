@@ -15,7 +15,7 @@ Add your timetable
 Execute the program
 
 # CODE
-```
+~~~
 <!DOCTYPE html>
 <html>
 
@@ -100,7 +100,7 @@ Execute the program
      
    </body>
 </html>
-
+~~~
 ## OUTPUT 
 
 ![OUTPUT](https://github.com/21500125/timetable/blob/main/TIMETABLE.png?raw=true)
