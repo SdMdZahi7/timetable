@@ -103,4 +103,7 @@ Execute the program
 ~~~
 ## OUTPUT 
 
-![OUTPUT]()
+![OUTPUT](https://github.com/21500125/timetable/blob/main/TIMETABLE.png?raw=true)
+
+## RESULT:
+The program is executed
