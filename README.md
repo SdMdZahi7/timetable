@@ -103,4 +103,4 @@ Execute the program
 
 ## OUTPUT 
 
-![OUTPUT](./TIMETABLE SSN.PNG)
+![OUTPUT](https://github.com/21500125/timetable/blob/main/TIMETABLE.png?raw=true)
