@@ -103,4 +103,4 @@ Execute the program
 ~~~
 ## OUTPUT 
 
-![OUTPUT](./TIMETABLE SS1.PNG)
+![OUTPUT]()
