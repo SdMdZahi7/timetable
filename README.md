@@ -102,7 +102,7 @@ Execute the program
 </html>
 ~~~
 ## OUTPUT 
-![OUTPUT](https://github.com/21500125/timetable/blob/main/timetable.jpeg?raw=true)
+![GitHub Logo](z.png)
 
 ## RESULT:
 The program is executed
