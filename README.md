@@ -1,4 +1,4 @@
-![Uploading timetable hajara.png…]()
+
 # Experiment_Time_Table
 
 ## AIM
@@ -33,9 +33,9 @@ Execute the program
          </tr>
  <tr>
   <th colspan="2">Reference No:</th>
-         <th colspan="2">21500125</th>
+         <th colspan="2">21004029</th>
   <th colspan="2">Name: </th>
-  <th colspan="2">Sithi hajara I</th>
+  <th colspan="2">SYED MUHAMMED ZAHI</th>
  </tr>
          <tr>
             <th>DAYS</th>
